@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'weater-icon-font';
     src:
-        url('weater-icon-font.ttf') format('truetype'),
-        url('weater-icon-font.woff') format('woff'),
-        url('weater-icon-font.svg') format('svg');
+        url('fonts/weater-icon-font.ttf?tdr3rg') format('truetype'),
+        url('fonts/weater-icon-font.woff?tdr3rg') format('woff'),
+        url('fonts/weater-icon-font.svg?tdr3rg#weater-icon-font') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,221 +24,222 @@
 }
 
 .icon-A:before {
-    content: "\21";
+    content: "\e900";
 }
 .icon-B:before {
-    content: "\22";
+    content: "\e901";
 }
 .icon-C:before {
-    content: "\23";
+    content: "\e902";
 }
 .icon-D:before {
-    content: "\24";
+    content: "\e903";
 }
 .icon-E:before {
-    content: "\25";
+    content: "\e904";
 }
 .icon-F:before {
-    content: "\26";
+    content: "\e905";
 }
 .icon-G:before {
-    content: "\27";
+    content: "\e906";
 }
 .icon-H:before {
-    content: "\28";
+    content: "\e907";
 }
 .icon-I:before {
-    content: "\29";
+    content: "\e908";
 }
 .icon-J:before {
-    content: "\2a";
+    content: "\e909";
 }
 .icon-K:before {
-    content: "\2b";
+    content: "\e90a";
 }
 .icon-L:before {
-    content: "\2c";
+    content: "\e90b";
 }
 .icon-M:before {
-    content: "\2d";
+    content: "\e90c";
 }
 .icon-N:before {
-    content: "\2e";
+    content: "\e90d";
 }
 .icon-O:before {
-    content: "\2f";
+    content: "\e90e";
 }
 .icon-P:before {
-    content: "\30";
+    content: "\e90f";
 }
 .icon-Q:before {
-    content: "\31";
+    content: "\e910";
 }
 .icon-R:before {
-    content: "\32";
+    content: "\e911";
 }
 .icon-S:before {
-    content: "\33";
+    content: "\e912";
 }
 .icon-T:before {
-    content: "\34";
+    content: "\e913";
 }
 .icon-U:before {
-    content: "\35";
+    content: "\e914";
 }
 .icon-V:before {
-    content: "\36";
+    content: "\e915";
 }
 .icon-W:before {
-    content: "\37";
+    content: "\e916";
 }
 .icon-X:before {
-    content: "\38";
+    content: "\e917";
 }
 .icon-Y:before {
-    content: "\39";
+    content: "\e918";
 }
 .icon-Z:before {
-    content: "\3a";
+    content: "\e919";
 }
 .icon-a:before {
-    content: "\3b";
+    content: "\e91a";
 }
 .icon-b:before {
-    content: "\3c";
+    content: "\e91b";
 }
 .icon-c:before {
-    content: "\3d";
+    content: "\e91c";
 }
 .icon-d:before {
-    content: "\3e";
+    content: "\e91d";
 }
 .icon-e:before {
-    content: "\3f";
+    content: "\e91e";
 }
 .icon-f:before {
-    content: "\40";
+    content: "\e91f";
 }
 .icon-g:before {
-    content: "\41";
+    content: "\e920";
 }
 .icon-h:before {
-    content: "\42";
+    content: "\e921";
 }
 .icon-i:before {
-    content: "\43";
+    content: "\e922";
 }
 .icon-j:before {
-    content: "\44";
+    content: "\e923";
 }
 .icon-k:before {
-    content: "\45";
+    content: "\e924";
 }
 .icon-l:before {
-    content: "\46";
+    content: "\e925";
 }
 .icon-m:before {
-    content: "\47";
+    content: "\e926";
 }
 .icon-n:before {
-    content: "\48";
+    content: "\e927";
 }
 .icon-o:before {
-    content: "\49";
+    content: "\e928";
 }
 .icon-p:before {
-    content: "\4a";
+    content: "\e929";
 }
 .icon-q:before {
-    content: "\4b";
+    content: "\e92a";
 }
 .icon-r:before {
-    content: "\4c";
+    content: "\e92b";
 }
 .icon-s:before {
-    content: "\4d";
+    content: "\e92c";
 }
 .icon-t:before {
-    content: "\4e";
+    content: "\e92d";
 }
 .icon-u:before {
-    content: "\4f";
+    content: "\e92e";
 }
 .icon-v:before {
-    content: "\50";
+    content: "\e92f";
 }
 .icon-w:before {
-    content: "\51";
+    content: "\e930";
 }
 .icon-x:before {
-    content: "\52";
+    content: "\e931";
 }
 .icon-y:before {
-    content: "\53";
+    content: "\e932";
 }
 .icon-z:before {
-    content: "\54";
+    content: "\e933";
 }
 .icon-zero:before {
-    content: "\55";
+    content: "\e934";
 }
 .icon-one:before {
-    content: "\56";
+    content: "\e935";
 }
 .icon-two:before {
-    content: "\57";
+    content: "\e936";
 }
 .icon-three:before {
-    content: "\58";
+    content: "\e937";
 }
 .icon-four:before {
-    content: "\59";
+    content: "\e938";
 }
 .icon-five:before {
-    content: "\5a";
+    content: "\e939";
 }
 .icon-six:before {
-    content: "\5b";
+    content: "\e93a";
 }
 .icon-seven:before {
-    content: "\5c";
+    content: "\e93b";
 }
 .icon-eight:before {
-    content: "\5d";
+    content: "\e93c";
 }
 .icon-nine:before {
-    content: "\5e";
+    content: "\e93d";
 }
 .icon-asterisk:before {
-    content: "\5f";
+    content: "\e93e";
 }
 .icon-backslash:before {
-    content: "\60";
+    content: "\e93f";
 }
 .icon-bullet:before {
-    content: "\61";
+    content: "\e940";
 }
 .icon-colon:before {
-    content: "\62";
+    content: "\e941";
 }
 .icon-comma:before {
-    content: "\63";
+    content: "\e942";
 }
 .icon-ellipsis:before {
-    content: "\64";
+    content: "\e943";
 }
 .icon-exclam:before {
-    content: "\65";
+    content: "\e944";
 }
 .icon-exclamdown:before {
-    content: "\66";
+    content: "\e945";
 }
 .icon-slash:before {
-    content: "\67";
+    content: "\e946";
 }
 .icon-guilsinglleft:before {
-    content: "\68";
+    content: "\e947";
 }
 .icon-guilsinglright:before {
-    content: "\69";
+    content: "\e948";
 }
+
